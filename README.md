@@ -4,7 +4,7 @@ Go to this [page](https://github.com/tnetemeyer) to see my projects.
 
 My best one can be found [here](https://github.com/tnetemeyer/hello-world)!
 
-Please see my [LinkedIn](https://www.linkedin.com/in/tracy-netemeyer-57806448/) profile to learn more about my experience. 
+Please see my [LinkedIn](https://www.linkedin.com/in/tnetemeyer/) profile to learn more about my experience. 
 
 You can use the [editor on GitHub](https://github.com/tnetemeyer/tnetemeyer.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
