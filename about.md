@@ -1,6 +1,4 @@
-layout: page
-title: "About Me"
-permalink: /about/
+## About Me
 
 Biomedical Engineer with 3+ years of experience in data
 analysis, research, presenting, and scientific writing. Ready to
