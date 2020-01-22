@@ -1,5 +1,7 @@
 ## Welcome to Tracy's Page
 
+Learn more [About Me](https://tnetemeyer.github.io/about).
+
 Go to this [page](https://github.com/tnetemeyer) to see my projects. 
 
    I analyze Australian employee exit surveys [here](https://github.com/tnetemeyer/Analysis-of-Employee-Exit-Surveys).
