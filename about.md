@@ -1,3 +1,6 @@
+permalink: /about/
+---
+
 ## About Me
 
 Hello, my name is Tracy. I am a Biomedical Engineer with 3+ years of experience in data analysis, research, presenting, and scientific writing. For the last three years, I have worked as an engineer in a Medical Device Company. Prior to working in this industry, I completed a BA in Biological Sciences and an MS in Biomedical Engineering. 
