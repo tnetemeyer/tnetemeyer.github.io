@@ -7,5 +7,5 @@ I am extremely passionate about learning and can often be found teaching myself 
 More Information
 Talk to me about Data Science, Health Sciences, Marine Biology, Travel, or Nutrition. Ideally, a combination! 
 
-Contact me
+Contact me:
 tnetemeyer1@gmail.com
